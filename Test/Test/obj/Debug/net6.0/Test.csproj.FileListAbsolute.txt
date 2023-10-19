@@ -1,0 +1,17 @@
+E:\Personal\Project 3\WebAPI\Test\Test\bin\Debug\net6.0\Test.exe
+E:\Personal\Project 3\WebAPI\Test\Test\bin\Debug\net6.0\Test.deps.json
+E:\Personal\Project 3\WebAPI\Test\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+E:\Personal\Project 3\WebAPI\Test\Test\bin\Debug\net6.0\Test.dll
+E:\Personal\Project 3\WebAPI\Test\Test\bin\Debug\net6.0\Test.pdb
+E:\Personal\Project 3\WebAPI\Test\Test\bin\Debug\net6.0\M2Mqtt.Net.dll
+E:\Personal\Project 3\WebAPI\Test\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+E:\Personal\Project 3\WebAPI\Test\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\Project 3\WebAPI\Test\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+E:\Personal\Project 3\WebAPI\Test\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+E:\Personal\Project 3\WebAPI\Test\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+E:\Personal\Project 3\WebAPI\Test\Test\obj\Debug\net6.0\Test.csproj.CopyComplete
+E:\Personal\Project 3\WebAPI\Test\Test\obj\Debug\net6.0\Test.dll
+E:\Personal\Project 3\WebAPI\Test\Test\obj\Debug\net6.0\refint\Test.dll
+E:\Personal\Project 3\WebAPI\Test\Test\obj\Debug\net6.0\Test.pdb
+E:\Personal\Project 3\WebAPI\Test\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
+E:\Personal\Project 3\WebAPI\Test\Test\obj\Debug\net6.0\ref\Test.dll
